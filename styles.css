@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.title_recipe {
+    font-weight: bold;
+    margin: auto;
+}
+img,
+h4 {
+    margin: auto;
+    font-size: small;
+    text-align: center;
+}
+
+#grp h2 {
+    font-size: 25px;
+}
