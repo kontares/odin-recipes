@@ -11,6 +11,7 @@
     margin: auto;
     text-align: center;
 }
+
 img,
 a,
 p {
@@ -25,4 +26,11 @@ img {
 
 #grp h2 {
     font-size: 25px;
+    text-align: center;
+}
+
+#grp p {
+    text-align: left;
+    font-size: medium;
+    font-weight: 500;
 }
