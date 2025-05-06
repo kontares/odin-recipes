@@ -36,6 +36,7 @@ img {
 }
 
 #grp p {
+    margin-left: 10px;
     text-align: left;
     font-size: medium;
     font-weight: bold;
